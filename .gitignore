@@ -1,12 +1,8 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
 
+/node_modules
 # Other files and folders
 .settings/
-
+.settings/
 # Executables
 *.swf
 *.air
